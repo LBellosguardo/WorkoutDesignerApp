@@ -6,7 +6,8 @@ workouts for their clients. The user will be able to save all necessary exercise
 will be able to save and retrieve these workouts. The workouts will be able to be generated in both PDF and Excel format. This app is written in Python,
 using the tkinter module for all GUI programming.
 
-## Visual Premise Portrayed By Screenshots:
+## Snapshots So Far:
+*Features and designs are not final*
 
 **Options presented in the Main Menu**
 ![](https://github.com/LBellosguardo/ProjectDemos/blob/main/AppOutline.png)
@@ -16,8 +17,9 @@ using the tkinter module for all GUI programming.
 
 
 ## Checklist of Work Done / To Be Completed:
+*Steps will be added and updated as development progresses*
 
-- **Implement functionality of pages (frames) of the app and switching between pages via button commands**  :white_check_mark:
+- **Implement functionality for pages (frames) of the app and switching between pages via button commands**  :white_check_mark:
 - **Main Menu basic outline and button functionality**  :white_check_mark:
 - **Database Setup using SQLite3**  :white_check_mark:
 - Exercises page (current)
