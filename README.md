@@ -1,7 +1,7 @@
 # Workout Designer App (under development)
 
 ## Brief Rundown:
-This is an app created for a freelance physical therapist / trainer which drastically cuts down on the tedious process of designing and generating customized
+This is an app created for a  physical trainer which drastically cuts down on the tedious process of designing and generating customized
 workouts for their clients. The user will be able to save all necessary exercises into a local database to draw from and create detailed workouts, and in turn
 will be able to save and retrieve these workouts. The workouts will be able to be generated in both PDF and Excel format. This app is written in Python,
 using the tkinter module for all GUI programming.
