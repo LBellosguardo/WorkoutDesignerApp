@@ -24,13 +24,14 @@ using the tkinter module for all GUI programming.
 - **Database Setup using SQLite3**  :white_check_mark:
 - Exercises page (current)
     - **Exercises table in the database**  :white_check_mark:
-    - GUI component for user to view / add / update / delete exercises
-    - Integrate functionality between GUI and database components
+    - **GUI component for user to view / add / update / delete exercises** :white_check_mark:
+    - **Integrate functionality between GUI and database components** :white_check_mark:
 - 'Create a Workout' page
 - Functionality to generate a neatly formatted PDF document for a workout
 - Functionality to generate a neatly formatted Excel document for a workout
 - 'Retrieve a Workout' page
 - 'Delete a Workout' page
+- Formatting and styling of the application
 
     
 ## Future Plans for this App
