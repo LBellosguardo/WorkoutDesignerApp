@@ -7,10 +7,13 @@ will be able to save and retrieve these workouts. The workouts will be able to b
 using the tkinter module for all GUI programming.
 
 ## Snapshots So Far:
-*Features and designs are not final*
+### *Features and designs are not final*
 
 **Options presented in the Main Menu**
 ![](https://github.com/LBellosguardo/ProjectDemos/blob/main/AppOutline.png)
+
+**Exercise Menu: Add, Update, or Delete exercises to the database**
+![](https://github.com/LBellosguardo/ProjectDemos/blob/main/ExercisesMenu.png)
 
 **Example output of a workout in Excel format (this file was given as a roadmap)**
 ![](https://github.com/LBellosguardo/ProjectDemos/blob/main/ExcelExample.png)
@@ -22,11 +25,11 @@ using the tkinter module for all GUI programming.
 - **Implement functionality for pages (frames) of the app and switching between pages via button commands**  :white_check_mark:
 - **Main Menu basic outline and button functionality**  :white_check_mark:
 - **Database Setup using SQLite3**  :white_check_mark:
-- Exercises page (current)
+- **Exercises page** :white_check_mark:
     - **Exercises table in the database**  :white_check_mark:
     - **GUI component for user to view / add / update / delete exercises** :white_check_mark:
     - **Integrate functionality between GUI and database components** :white_check_mark:
-- 'Create a Workout' page
+- 'Create a Workout' page (current)
 - Functionality to generate a neatly formatted PDF document for a workout
 - Functionality to generate a neatly formatted Excel document for a workout
 - 'Retrieve a Workout' page
