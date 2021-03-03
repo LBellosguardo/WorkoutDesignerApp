@@ -1,5 +1,5 @@
 # Workout Designer App (under development)
-
+## Paused on December 2020 - Resumed in March 2021
 ## Brief Rundown:
 This is an app created for a  physical trainer which drastically cuts down on the tedious process of designing and generating customized
 workouts for their clients. The user will be able to save all necessary exercises into a local database to draw from and create detailed workouts, and in turn
