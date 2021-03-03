@@ -3,8 +3,7 @@
 ## Brief Rundown:
 This is an app created for a  physical trainer which drastically cuts down on the tedious process of designing and generating customized
 workouts for their clients. The user will be able to save all necessary exercises into a local database to draw from and create detailed workouts, and in turn
-will be able to save and retrieve these workouts. The workouts will be able to be generated in both PDF and Excel format. This app is written in Python,
-using the tkinter module for all GUI programming.
+will be able to save and retrieve these workouts. The workouts will be able to be generated in both Google sheets format with the option to save as a PDF. This app is written in Python, using the tkinter module for all GUI programming.
 
 ## Snapshots So Far:
 ### *Features and designs are not final*
@@ -30,8 +29,11 @@ using the tkinter module for all GUI programming.
     - **GUI component for user to view / add / update / delete exercises** :white_check_mark:
     - **Integrate functionality between GUI and database components** :white_check_mark:
 - 'Create a Workout' page (current)
-- Functionality to generate a neatly formatted PDF document for a workout
-- Functionality to generate a neatly formatted Excel document for a workout
+- Functionality to generate a neatly formatted Google sheets document for a workout
+    - **Connect to google sheets account via Google Cloud Services.** :white_check_mark:
+    - Generate desired sheet formatting / create a copy from a template
+    - Fill sheet with all workout components and information.
+    - Functionality to save workout as a PDF file
 - 'Retrieve a Workout' page
 - 'Delete a Workout' page
 - Formatting and styling of the application
