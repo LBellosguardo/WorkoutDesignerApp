@@ -9,13 +9,13 @@ will be able to save and retrieve these workouts. The workouts will be able to b
 ### *Features and designs are not final*
 
 **Options presented in the Main Menu**
-![](https://github.com/LBellosguardo/ProjectDemos/blob/main/AppOutline.png)
+![](https://github.com/LBellosguardo/ProjectDemos/AppOutline.png)
 
 **Exercise Menu: Add, Update, or Delete exercises to the database**
-![](https://github.com/LBellosguardo/ProjectDemos/blob/main/ExercisesMenu.png)
+![](https://github.com/LBellosguardo/ProjectDemos/ExercisesMenu.png)
 
 **Example output of a workout in Excel format (this file was given as a roadmap)**
-![](https://github.com/LBellosguardo/ProjectDemos/blob/main/ExcelExample.png)
+![](https://github.com/LBellosguardo/ProjectDemos/ExcelExample.png)
 
 
 ## Checklist of Work Done / To Be Completed:
