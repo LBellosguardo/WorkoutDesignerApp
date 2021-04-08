@@ -35,7 +35,7 @@ will be able to save and retrieve these workouts. The workouts will be able to b
     - Fill sheet with all workout components and information.
     - Functionality to save workout as a PDF file
 - 'Retrieve a Workout' page
-- 'Delete a Workout' page
+- **'Delete a Workout' page** :white_check_mark:
 - Formatting and styling of the application
 
     
